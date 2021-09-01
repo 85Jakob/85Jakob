@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @85Jakob
 - 👀 I’m interested in game dev, UI, UX, backend.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking to collaborate on anything and everything. 
 - 📫 How to reach me 85Jakob@gmail.com
 
