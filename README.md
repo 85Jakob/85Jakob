@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jacob
-- 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking to collaborate on anything and everything. 
-- 📫 How to reach me 85Jakob@gmail.com
+- 📫 Reach me 85Jakob@gmail.com
 
 <!---
 JacobADoney/JacobADoney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
