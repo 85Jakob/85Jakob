@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @85Jakob
-
+--
 - 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking to collaborate on anything and everything. 
 - 📫 How to reach me 85Jakob@gmail.com
