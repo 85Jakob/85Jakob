@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jacob
-- 💞️ I’m looking to collaborate on anything and everything. 
 - 📫 Reach me 85Jakob@gmail.com
 
 <!---
